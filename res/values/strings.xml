@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">SampleCameraIntent</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_sample_camera_intent">SampleCameraIntent</string>
+    <string name="button_camera">Start Camera</string>
+    <string name="desc_image">Image View</string>
+
+</resources>
